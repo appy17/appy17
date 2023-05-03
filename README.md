@@ -1,5 +1,5 @@
 Hi there, I am Apeksha Tembhurne 👋
-Linkedin Badge Gmail Badge
+[Linkedin](https://www.linkedin.com/in/apeksha-tembhurne/)
 
 🎯 Portfolio website: [Portfolio](https://apekshatembhurne.netlify.app/)
 
