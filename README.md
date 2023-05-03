@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @appy17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, I am Apeksha Tembhurne 👋
+Linkedin Badge Gmail Badge
 
-<!---
-appy17/appy17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Portfolio website: Portfolio
+⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+💻 Things I love
+
+Backend Development ✍️
+Frontend Development ✍️
+
+
+🛠Tech Stack
+
+Core Java Spring HTML5 CSS3
+
+Bootstrap MySQL GitHub
+
+Show some  ❤️  by starring some of the repositories!
